@@ -1,0 +1,10 @@
+{
+  "name": "StringUtils",
+  "label": "StringUtils",
+  "description": "Provides actions for String operations.",
+  "group": "",
+  "artifactName": "",
+  "packageVersion": "",
+  "codeVersion": "",
+  "commands": []
+}
